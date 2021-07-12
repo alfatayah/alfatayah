@@ -11,3 +11,5 @@
 [![masf4dhil Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masf4dhil&theme=tokyonight&layout=compact)](https://github.com/masf4dhil/github-readme-stats)
 
 [![masf4dhil wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masf4dhil&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevanantha&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
