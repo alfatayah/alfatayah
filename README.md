@@ -1,14 +1,9 @@
-(https://user-images.githubusercontent.com/23058601/125278579-1cc33f00-e33d-11eb-9074-919caf1a3cd0.gif)
+![sticker_27](https://user-images.githubusercontent.com/23058601/125289794-d45e4e00-e349-11eb-988a-d6c88057b1ed.gif)
 
-Hi there 👋
+### Hi there 👋 🌊
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...!
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with my laptop to write some code then stress out ✌
+- 🌱 I’m currently learning javascript and few frameworks 
+- 👯 I’m looking to collaborate on a partner project javascript
+- 📫 How to reach me: email me, or Tweet me at Twitter/masf4dhil
+- ⚡ Fun fact: just a new guy in the tech community
