@@ -18,6 +18,9 @@
 
 [![masf4dhil wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masf4dhil&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+🌞 Morning    22 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
