@@ -1,6 +1,6 @@
 ### Hi there 👋 🌊
 
-- 🔭 I’m currently working with my laptop to write some code then stress out ✌
+- 🔭 I’m currently working with my laptop to write some code then stress out <code><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </code>
 - 🌱 I’m currently learning javascript and few frameworks 
 - 👯 I’m looking to collaborate on a partner project javascript
 - 📫 How to reach me: email me, or Tweet me at  [Twitter/masf4dhil](https://twitter.com/masf4dhil)
@@ -16,11 +16,9 @@
 
 [![masf4dhil Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masf4dhil&theme=tokyonight&layout=compact)](https://github.com/masf4dhil/github-readme-stats)
 
+
 [![masf4dhil wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masf4dhil&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
+
