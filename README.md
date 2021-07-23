@@ -17,4 +17,4 @@
 
 [![masf4dhil GitHub stats](https://github-readme-stats.vercel.app/api?username=masf4dhil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/masf4dhil/github-readme-stats)
 
-[![masf4dhil wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masf4dhil&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![masf4dhil Last 7 days stats](https://github-readme-stats.vercel.app/api/wakatime?username=masf4dhil&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
