@@ -1,6 +1,6 @@
 ### Hi there 👋 🌊
 
-  - 🔭 I’m currently working with my laptop to write some code then stress out <code><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </code>
+  - 🔭 Frontend Mobile at [BAF](https://www.baf.id/)
   - 🌱 I’m currently learning javascript and few frameworks 
   - 👯 I’m looking to collaborate on a partner project javascript
   - 📫 How to reach me: email me, or Tweet me at  [Twitter/alfatayah](https://twitter.com/alfatayah_)
