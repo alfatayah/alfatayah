@@ -42,23 +42,3 @@
 </table>
 
 ---
-
-### 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=alfatayah&show_icons=true&theme=tokyonight&locale=en" alt="Fadhil's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfatayah&layout=compact&theme=tokyonight&langs_count=6" alt="Fadhil's Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfatayah&theme=tokyonight" alt="Fadhil's Streak Stats" />
-</div>
-
