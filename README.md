@@ -11,29 +11,8 @@
 
   <p align="center">
     <a href="https://alfatayah.github.io/">🌐 Visit My Portfolio</a> •
-    <a href="https://www.linkedin.com/in/fadhillah-alfatayah-1b5976130/">💼 LinkedIn</a> •
-    <a href="mailto:fadhil.alfatayah@gmail.com">✉️ Contact Me</a>
   </p>
 </div>
-
----
-
-### 👤 About Me
-
-<details open>
-  <summary><b>✨ Brief Intro</b></summary>
-  <br/>
-  Saya adalah seorang <b>AI Engineer, Full-Stack Developer, dan Builder</b> yang bersemangat dalam membangun produk berkualitas tinggi serta mengeksplorasi teknologi baru. Saat ini, saya aktif memperluas keahlian saya ke arah otomatisasi AI, agen cerdas, dan alur kerja pintar (intelligent workflows).
-</details>
-
-<details>
-  <summary><b>⚡ Fun Facts</b></summary>
-  <ul>
-    <li>🚀 Selalu bersemangat mempelajari framework baru dan mengintegrasikan solusi AI di setiap project.</li>
-    <li>☕ Mengubah kopi menjadi baris kode yang fungsional dan bersih.</li>
-    <li>🌊 Suka dengan desain web yang bernuansa dinamis, modern, dan interaktif.</li>
-  </ul>
-</details>
 
 ---
 
@@ -64,51 +43,6 @@
 
 ---
 
-### 🚀 Selected Projects
-
-Berikut adalah beberapa proyek pilihan yang telah saya rancang dan kembangkan, sebagaimana ditampilkan di portfolio saya:
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📸 Nusa Kamera</h4>
-      <p>Aplikasi web penyedia informasi produk, sistem reservasi/booking, dan estimasi biaya sewa kamera secara real-time.</p>
-      <p>🛠️ <i>React, Laravel, PostgreSQL</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 BAF Mobile</h4>
-      <p>Aplikasi mobile untuk membantu konsumen BAF mengajukan pembiayaan kredit, memantau cicilan, serta simulasi kredit.</p>
-      <p>🛠️ <i>React Native, Express.js, MongoDB</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏖️ Staycation</h4>
-      <p>Web administrasi manajemen hotel untuk memesan kamar, memantau ketersediaan kamar, dan memvalidasi pembayaran sewa.</p>
-      <p>🛠️ <i>Express.js, EJS, MongoDB</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💳 Nusa POS</h4>
-      <p>Website Point of Sales (POS) dan manajemen transaksi pembayaran terintegrasi untuk produk rental.</p>
-      <p>🛠️ <i>Express.js, EJS, MongoDB</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🥥 PT Global Agro Coco</h4>
-      <p>Landing page profesional untuk memamerkan produk olahan kelapa berkualitas tinggi ke pasar domestik & ekspor.</p>
-      <p>🛠️ <i>HTML5, CSS3, SCSS</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📅 Booking System Nusa</h4>
-      <p>Sistem manajemen penjadwalan dan pemesanan otomatis untuk menunjang aktivitas Nusa Kamera.</p>
-      <p>🛠️ <i>React, Node.js, Express.js</i></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
@@ -128,23 +62,3 @@ Berikut adalah beberapa proyek pilihan yang telah saya rancang dan kembangkan, s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfatayah&theme=tokyonight" alt="Fadhil's Streak Stats" />
 </div>
 
----
-
-### 🤝 Connect with Me
-
-<div align="center">
-  <a href="mailto:fadhil.alfatayah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fadhil.alfatayah%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/fadhillah-alfatayah-1b5976130/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fadhillah%20Alfatayah-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/alfatayah_">
-    <img src="https://img.shields.io/badge/Twitter-%40alfatayah__-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-<br/>
-<div align="center">
-  <sub>Designed with ❤️ by Antigravity based on Fadhil's Portfolio</sub>
-</div>
